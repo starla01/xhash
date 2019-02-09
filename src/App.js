@@ -5,6 +5,7 @@ import Header from "./components/header";
 import Home from "./views/home";
 import Users from "./views/users";
 import Detail from "./views/detail";
+import './App.css';
 
 const history = createBrowserHistory();
 
